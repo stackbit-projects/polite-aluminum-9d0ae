@@ -12,7 +12,7 @@
                 "label": "Home",
                 "url": "/",
                 "style": "link",
-                "icon": "arrow-left",
+                "icon": "arrow-right",
                 "has_icon": true
             },
             {
