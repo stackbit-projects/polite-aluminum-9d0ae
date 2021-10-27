@@ -12,7 +12,8 @@
                 "label": "Home",
                 "url": "/",
                 "style": "link",
-                "icon": "arrow-right"
+                "icon": "arrow-right",
+                "has_icon": true
             },
             {
                 "label": "Features",
